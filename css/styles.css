@@ -92,7 +92,7 @@
 
 .carousel-control-prev i,
 .carousel-control-next i {
-    color:#111;
+    color:rgb(255, 0, 0);
     font-size: 3em;
 }
 
@@ -104,7 +104,7 @@
 
 
 .carousel-indicators .active {
-    background-color:#000;
+    background-color:rgb(255, 0, 0);
 
 }
 
